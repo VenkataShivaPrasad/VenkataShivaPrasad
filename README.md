@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Venkata Shiva Prasad</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center"> and at the moment, I'm embracing the adventure of being 'between opportunities.'😄 </h3>
 
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Java & DSA**
 
 - 👨‍💻 All of my projects are available at [http://venkatashivaprasad'sPortfolio.com](http://venkatashivaprasad'sPortfolio.com)
 
@@ -12,7 +12,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 <div display="flex">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  
