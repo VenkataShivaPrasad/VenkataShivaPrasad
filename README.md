@@ -2,9 +2,9 @@
 <h3 align="center"> and at the moment, I'm embracing the adventure of being 'between opportunities.'😄 </h3>
 
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on a **E-commerce Website**
 
-- 🌱 I’m currently learning **Java & DSA**
+- 🌱 I’m currently learning **MERN, Java & DSA**
 
 - 👨‍💻 All of my projects are available at [http://venkatashivaprasad'sPortfolio.com](http://venkatashivaprasad'sPortfolio.com)
 
