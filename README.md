@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **MERN, Java & DSA**
 
-- 👨‍💻 All of my projects are available at [http://venkatashivaprasad'sPortfolio.com](http://venkatashivaprasad'sPortfolio.com)
-
 - 📫 How to reach me **venkatashivaprasad.nannuri@gmail.com**
 
 
